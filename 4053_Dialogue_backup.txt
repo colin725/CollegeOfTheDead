@@ -1,0 +1,61 @@
+-- Outside building (before 1st level) --
+text =
+       "Victor: " +"#"+
+       "Hey there are others.            "  +"##"+
+       "                                 "  +"#"+
+       "What happened to you guys?                  "  +"#"+
+       "Ally, a Math major: " +"#"+
+       "Stay back! Are you a zombie?!    "  +"#"+
+       "Jack, a jock: " +"#"+
+       "Really, Ally? Does he look like a zombie? "  +"#"+
+       "Ally: " +"#"+
+       "Hey you never know!                                      "  +"#"+
+       "Yes, you do. Zombies aren't hard to point out." +"#"+
+       "You know rotting flesh, missing body parts, go 'uuuuuhhhhhhh'." +"#"+
+       "A 4-year old can point one out. "  +"#"+
+       "Tracy, a Liberal Arts major:                "  +"#"+     
+       "Go easy on her, Jack. We're all tense here." +"#"+
+       "Sorry about that, I'm Tracy. This is Jack and Ally." +"#"+
+       "Victor: " +"#"+
+       "Don't worry about it. I was afraid of the same thing, actually." +"#"+
+       "I'm Victor. I'm glad I found you guys." +"#"+
+       "Zombie Survival rule number #2: Don't roam alone." +"#"+
+       "Jack: " +"#"+
+       "Zombie survival rules? What?" +"#"+
+       "*zombie moans in the background*" +"#"+
+       "Jack: " +"#"+
+       "Crap! More are coming!" +"#"+ " ";
+
+
+-- Ending --
+
+text =
+
+        "Victor: " +"#"+
+        "Got the keys. Who wants to drive?" +"#"+
+        
+        "Tracy: " +"#"+
+        "I'll do it. We can head to my friend's house in the next city over." +"#"+
+        
+        "Victor: " +"#"+
+        "Alright. Let's go!" +"#"+
+        
+        "*They get in the car*" +"#"+
+        "Later...                          " +"#"+
+
+        "Ally: " +"#"+
+        "I thought we'd never get out." +"#"+
+
+        "Jack: " +"#"+
+        "Tell me about it." +"#"+
+        "So, what do you guys plan to do now, while the government gets this crap sorted out?" +"#"+
+        "I'm gonna sleep." +"#"+
+
+        "Ally: " +"#"+
+        "I'm gonna eat lots of food." +"#"+
+        
+        "Tracy: " +"#"+
+        "I'll probably sleep also." +"#"+
+        
+        "Victor: " +"#"+
+        "I don't know, maybe I'll play Resident Evil or Left 4 Dead or something." ;
