@@ -35,28 +35,22 @@ Jack
 "Crap! More are coming!"
 
 
--- Dead End --
-
-Jack
-"Are you kidding me?!"
-
-Tracy
-"Of course. A dead end..."
-
-Victor
-"Zombie Survival rule number #14: Watch out for dead ends. They suck."
+-- Into the forest --
 
 Ally
-"Now what do we do?"
+"No."
+
+Jack
+"What?"
+
+Ally
+"No. no way I'm going into a dark forest in the middle of a freaking zombie invasion!"
 
 Tracy
 "We could try the other side of the campus. The highway will only be a few miles from there."
 
-Ally
-"Or we could head south, but no way I'm going into a dark forest in the middle of a freaking zombie invasion!"
-
 Victor
-"We should keep heading east. Maybe we can find a safehouse or car or something."
+"It's too far. We'll be dead before we get halfway. Cutting through the forest is probably our best bet."
 
 Jack
 "Don't think we have much choice."
@@ -64,8 +58,14 @@ Jack
 Victor
 "Ok then. Let's go."
 
+Ally
+"Oooo!"
 
--- Home Stretch -
+Tracy
+"Don't worry. You'll be fine. We got you."
+
+
+-- Out of the forest -
 
 Ally
 "I don't think I can go on guys..."
@@ -104,15 +104,8 @@ Ally
 "Who cares I just want something to eat!"
 
 Tracy
-"Uh oh. More zombies ahead. It doesn't end."
+"Guys, look! We made it to the docks. There's another boat... and some zombies in the way."
 
-*a jingle is heard*
-
-Jack
-"What was that?"
-
-Ally
-"You think they go to that car?"
 
 Victor
 "Only one way to find out. Zombie Survival #26: Take risks when necessary."
@@ -137,10 +130,6 @@ Victor
 "Alright. Let's do this!"
 
 
-//plans. Victor - play Left 4 Dead
-
-
-
 
 -- Ending --
 
@@ -153,7 +142,7 @@ Tracy
 Victor
 "Alright. Let's go!"
 
-*They get in the car*
+*They get in the boat*
 
 Later...
 

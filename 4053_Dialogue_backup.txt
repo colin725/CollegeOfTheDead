@@ -26,6 +26,92 @@ text =
        "Jack: " +"#"+
        "Crap! More are coming!" +"#"+ " ";
 
+-- Into the forest --
+
+	"Ally: " +"#"+
+	"No." +"##"+
+	"Jack: " +"#"+
+	"What?" +"##"+
+	"Ally: " +"#"+
+	"No. no way I'm going into a dark forest in the middle of a freaking zombie invasion!" +"##"+
+	"Tracy: " +"#"+
+	"We could try the other side of the campus. The highway will only be a few miles from there." +"##"+
+	"Victor: " +"#"+
+	"It's too far. We'll be dead before we get halfway. Cutting through the forest is probably our best bet." +"##"+
+	"Jack: " +"#"+
+	"Don't think we have much choice." +"##"+
+	"Victor: " +"#"+
+	"Ok then. Let's go." +"##"+
+	"Ally: " +"#"+
+	"Oooo!" +"##"+
+	"Tracy: " +"#"+
+	"Don't worry. You'll be fine. We got you." +"##"+ " ";
+
+
+-- Out of the forest -
+
+	"Ally: " +"#"+
+	"I don't think I can go on guys..." +"##"+
+
+	"Victor: "  +"#"+
+	"Zombie Survival rule number #25: Never give up." +"##"+
+
+	"Jack: " +"#"+
+	"Will you shut up? We've been walking for miles. I'm tired." +"##"+
+
+	"Tracy: " +"#"+
+	"Leave him alone, Jack. Besides, we could use some moral." +"##"+
+
+	"Ally: " +"#"+
+	"And some food." +"##"+
+
+	"Jack: " +"#"+
+	"You don't like taking my side, do you Tracy? They're stupid rules." +"##"+
+
+	"Victor: " +"#"+
+	"At least they're relevant..." +"##"+
+
+	"Jack: " +"#"+
+	"Shut up...The likelihood of this happening was 1 in 10 million. It was obviously written by a zombiephobic nutjob." +"##"+
+
+	"Victor: " +"#"+
+	"Hey, that's my father your talking about!" +"##"+
+
+	"Jack: " +"#"+
+	"Seriously? Tell me your joking." +"##"+
+
+	"Victor: " +"#"+
+	"Yeah I am. But clearly this guy isn't much of a nutjob now." +"##"+
+
+	"Ally: " +"#"+
+	"Who cares I just want something to eat!" +"##"+
+
+	"Tracy: " +"#"+
+	"Guys, look! We made it to the docks. There's another boat... and some zombies in the way." +"##"+
+
+
+	"Victor: " +"#"+
+	"Only one way to find out. Zombie Survival #26: Take risks when necessary." +"##"+
+
+
+	"Ally: " +"#"+
+	"The zombies look tough though. And it doesn't seem like they're moving..." +"##"+
+
+	"Victor: " +"#"+
+	"We don't have a choice then. We can wait here and get eaten by them or other zombies or we can go down fighting. I'm not doing the first. Whose with me?"  +"##"+
+
+	"Jack: " +"#"+
+	"Count me in." +"##"+
+
+	"Tracy: " +"#"+
+	"Me too." +"##"+
+
+	"Ally: " +"#"+
+	"I guess I'm in too." +"##"+
+
+	"Victor: " +"#"+
+	"Alright. Let's do this!" +"##"+ " ";
+
 
 -- Ending --
 
