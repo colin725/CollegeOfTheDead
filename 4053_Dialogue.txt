@@ -7,10 +7,10 @@ Victor
 "Hey, there are others."
 "What happened to you guys?"
 
-Ally (Math major)
+Ally (Science major)
 "Stay back! Are you a zombie?"
 
-Jack (Jock)
+Jack (athlete, Math major)
 "Really, Ally? Does he look like a zombie?"
 
 Ally
@@ -34,6 +34,54 @@ Jack
 Jack
 "Crap! More are coming!"
 
+-- Front of the schoolyard --
+
+Victor
+"So where were you guys when all this happened?"
+"A few students and I ran out of class when our teacher turned into a zombie."
+
+Jack
+"I was headed to the computer lab."
+
+Tracy
+"I was getting off the bus."
+
+Ally
+"I was coming back from a class."
+
+Victor
+"Sounds like nowhere on campus is safe..."
+
+Ally
+"How are we going to survive this?"
+
+Victor
+"Zombie Survival rule #7: Don't panic."
+
+Jack
+"Again with the rules?"
+
+Tracy
+"Don't worry about it, Jack. Let's keep moving."
+
+
+-- Outside school, in town --
+
+
+Tracy
+"Looks like the streets are deserted..."
+
+Ally
+"At least the street lights are on."
+
+*zombies moan in the distance*
+
+Jack
+"They're this far out?"
+
+Victor
+"We gotta get out of here."
+
 
 -- Into the forest --
 
@@ -44,7 +92,7 @@ Jack
 "What?"
 
 Ally
-"No. no way I'm going into a dark forest in the middle of a freaking zombie invasion!"
+"No. No way I'm going into a dark forest in the middle of a freaking zombie invasion!"
 
 Tracy
 "We could try the other side of the campus. The highway will only be a few miles from there."
@@ -129,6 +177,41 @@ Ally
 Victor
 "Alright. Let's do this!"
 
+-- Out of forest shortened --
+
+"Ally: " +"#"+
+"I don't think I can go on guys...I need food..." +"##"+
+
+"Victor: "  +"#"+
+"Zombie Survival rule number 25: Never give up." +"##"+
+
+"Jack: " +"#"+
+"Will you shut up? We've been walking for miles. I'm tired." +"##"+
+
+"Tracy: " +"#"+
+"Leave him alone, Jack. Besides, we could use some morale." +"##"+
+
+"Jack: " +"#"+
+"You don't like taking my side, do you Tracy? They're stupid rules." +"#"+
+"The likelihood of this happening was 1 in 10 million. It was obviously written by a zombiephobic nutjob." +"##"+
+
+"Victor: " +"#"+
+"Clearly this guy isn't much of a nutjob now." +"##"+
+
+"Tracy: " +"#"+
+"Guys, look! We made it to the docks. There's a motorboat... and some zombies in the way." +"##"+
+
+"Victor: " +"#"+
+"Zombie Survival number 26: Take risks when necessary." +"#"+
+"We don't have a choice then. We can wait here and get eaten by them or other zombies or we can go down fighting." +"#"+
+"I'm not doing the first. Whose with me?"  +"##"+
+
+"Everyone else: " +"#"+
+"I'm in." +"##"+
+
+"Victor: " +"#"+
+"Alright. Let's do this!" +"##"+ " ";
+
 
 
 -- Ending --
@@ -159,7 +242,8 @@ Tracy
 "I'll probably sleep also."
 
 Victor
-"I don't know, maybe I'll play Resident Evil or Left 4 Dead or something."
+"Hug the life out of my family, especially my puppy."
+"Zombie Survival rule number 30: Cherish family and friends."
 
 
 
